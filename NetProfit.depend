@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518344277 source:d:\embeddedcourse\code\netprofit\main.c
+	<stdio.h>
+	<stdlib.h>
+
